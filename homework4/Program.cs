@@ -17,7 +17,6 @@ foreach (char e in str)
 Console.WriteLine(countSpace);
 string[] strArray = new string[countSpace];
 string word = "";
-int count = 0;
 int i = strArray.Length - 1;
 foreach (char e in str)
 {
